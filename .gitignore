@@ -3,4 +3,5 @@ node_modules
 npm-debug.log
 
 # other
+launcher_profiles.json
 *.env

@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/OsoWiz/Minebot#readme",
   "dependencies": {
-    "mineflayer": "^2.41.0"
+    "dotenv": "^8.2.0",
+    "mineflayer": "^2.41.0",
+    "prismarine-viewer": "^1.13.3"
   }
 }
