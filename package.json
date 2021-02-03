@@ -1,0 +1,23 @@
+{
+  "name": "minebot",
+  "version": "1.0.0",
+  "description": "Bot for minecraft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsoWiz/Minebot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OsoWiz/Minebot/issues"
+  },
+  "homepage": "https://github.com/OsoWiz/Minebot#readme",
+  "dependencies": {
+    "mineflayer": "^2.41.0"
+  }
+}
